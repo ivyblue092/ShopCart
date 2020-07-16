@@ -1,0 +1,40 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+*{
+  margin: 5px;
+
+}
+
+h1, p {
+  font-family: Gill Sans Extrabold, sans-serif;
+}
+
+.cart{
+  background-color: purple;
+  padding: 1px;
+  padding-bottom: 5px;
+}
+
+.cursor{
+  cursor:pointer;
+  color: pink;
+  text-decoration:underline;
+}
+
+.alert{
+  margin-bottom: 3px;
+}
+
+.alert-info {
+  background-color: rgb(212, 164, 212);
+  
+}
+
+.cart-header{
+  background-color: palevioletred;
+}
+
+.cart-reset{
+  margin-top: 10px;
+  margin-right: 10px;
+}
